@@ -201,6 +201,12 @@ body {
   }
 }
 
+@media screen and (max-width: 25em) {
+  .team__gallery--1 .title {
+    left: 20px;
+  }
+}
+
 .team__gallery--1 .name {
   font-size: 1.3rem;
   margin-top: 1rem;
@@ -263,6 +269,12 @@ body {
 @media screen and (max-width: 37.5em) {
   .team__gallery--2 .title {
     left: 40px;
+  }
+}
+
+@media screen and (max-width: 25em) {
+  .team__gallery--2 .title {
+    left: 20px;
   }
 }
 
@@ -331,6 +343,12 @@ body {
   }
 }
 
+@media screen and (max-width: 25em) {
+  .team__gallery--3 .title {
+    left: 20px;
+  }
+}
+
 .team__gallery--3 .name {
   font-size: 1.3rem;
   margin-top: 1rem;
@@ -396,6 +414,12 @@ body {
   }
 }
 
+@media screen and (max-width: 25em) {
+  .team__gallery--4 .title {
+    left: 20px;
+  }
+}
+
 .team__gallery--4 .name {
   font-size: 1.3rem;
   margin-top: 1rem;
@@ -447,6 +471,12 @@ body {
 @media screen and (max-width: 37.5em) {
   .team__gallery--5 .title {
     left: 40px;
+  }
+}
+
+@media screen and (max-width: 25em) {
+  .team__gallery--5 .title {
+    left: 20px;
   }
 }
 
@@ -512,6 +542,12 @@ body {
 @media screen and (max-width: 37.5em) {
   .team__gallery--6 .title {
     left: 40px;
+  }
+}
+
+@media screen and (max-width: 25em) {
+  .team__gallery--6 .title {
+    left: 20px;
   }
 }
 
